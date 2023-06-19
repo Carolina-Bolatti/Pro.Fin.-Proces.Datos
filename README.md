@@ -8,7 +8,7 @@
 * Alvarez, Agustín
 * Bolatti Cristofaro, María Carolina
 * de Rosario Boero, Aldana Mailén
-* Galvan, Sebastián
+* Galván, Sebastián Alejandro
 * Octtinger, Martina
 * Siccardi, Luis
 * Vila, Mariano Raúl
