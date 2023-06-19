@@ -14,5 +14,6 @@
 * Vila, Mariano Raúl
 
 ## Datasets:
+(2 tipos)
 * https://www.kaggle.com/datasets/tejashvi14/employee-future-prediction
 * https://www.kaggle.com/datasets/zeyadkhalid/mbti-personality-types-500-dataset
