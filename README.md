@@ -1,3 +1,5 @@
+![ProcesamientoDeDatosBanner](https://github.com/Carolina-Bolatti/Pro.Fin.-Proces.Datos/assets/105814132/5023ef12-6b6a-4671-bcbd-30c84e0193d8)
+
 # Proyecto de Finalización - Procesamiento de Datos - ISPC
 
 ## Comisión Sala 1 - Cohorte 2022
