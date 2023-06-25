@@ -72,4 +72,18 @@ print(empleados)
 
 ```
 
+## VsCode
 
+Crear entorono vitrual y activarlo:
+
+```
+python -m venv venv
+```
+```
+venv\Script\activate
+```
+
+Insatar las dependencias:
+```
+pip install -r requirements.txt
+```
