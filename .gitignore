@@ -1,4 +1,5 @@
 .vscode
+.DS_Store
 data/MBTI500.ENFJ.all.words.count.sorted.20.txt
 data/MBTI500.ENFJ.all.words.count.sorted.30.txt
 data/MBTI500.ENFJ.all.words.count.sorted.40.txt

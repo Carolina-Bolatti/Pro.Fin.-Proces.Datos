@@ -283,7 +283,7 @@ cat data/MBTI500.data.txt | python src/enrich.py data/yeah.dict num tab > data.t
 cat data/MBTI500.data.txt | python src/enrich.py data/year.dict num tab > data.txt; mv data.txt data/MBTI500.data.txt
 
 # agregamos el encabezado
-echo "type" > data/header.txt
+echo "personality" > data/header.txt
 echo "count" >> data/header.txt
 cat data/MBTI500.*.dict.txt | awk '{print $3}' | sort | uniq >> data/header.txt
 
