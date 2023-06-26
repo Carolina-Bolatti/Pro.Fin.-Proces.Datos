@@ -288,7 +288,7 @@ cat data/MBTI500.data.txt | python src/enrich.py data/year.dict num tab > data.t
 # 
 # cat data/MBTI500.*.dict.txt | awk '{print $3}' | sort | uniq >> data/header.txt
 
-cat data/MBTI500.data.txt >> data/MBTI500.data.enriched.txt
 cat data/header.txt > data/MBTI500.data.enriched.txt
+cat data/MBTI500.data.txt >> data/MBTI500.data.enriched.txt
 
 
