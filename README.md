@@ -20,6 +20,10 @@
 * https://www.kaggle.com/datasets/tejashvi14/employee-future-prediction
 * https://www.kaggle.com/datasets/zeyadkhalid/mbti-personality-types-500-dataset
 
+## Reportes:
+* https://drive.google.com/file/d/1rsTAg3ZC2-ggwnlNGQqK6enVQ9DvdPpK/view?usp=share_link
+* https://drive.google.com/file/d/1DzzCGrHSEerQkIOSMfsUE9UbhXGQcbuG/view?usp=share_link
+
 ## Requerimientos:
 Como el dataset de mbti supera los 100 MB hay instalar el git lfs para usar archivos grandes:
 * https://docs.github.com/en/repositories/working-with-files/managing-large-files/configuring-git-large-file-storage
