@@ -24,6 +24,10 @@
 * MBTI https://drive.google.com/file/d/1rsTAg3ZC2-ggwnlNGQqK6enVQ9DvdPpK/view?usp=share_link
 * Employee https://drive.google.com/file/d/1DzzCGrHSEerQkIOSMfsUE9UbhXGQcbuG/view?usp=share_link
 
+## Notebooks:
+* MBTI https://colab.research.google.com/drive/19yV5MfRZb6b0bf7sHLlZ2B5xU25KrXeX?usp=sharing
+* Employee https://colab.research.google.com/drive/13mrasACPF8qh-MNNnCNzgk9Nx8Y50wVJ?usp=sharing
+
 ## Requerimientos:
 Como el dataset de mbti supera los 100 MB hay instalar el git lfs para usar archivos grandes:
 * https://docs.github.com/en/repositories/working-with-files/managing-large-files/configuring-git-large-file-storage
