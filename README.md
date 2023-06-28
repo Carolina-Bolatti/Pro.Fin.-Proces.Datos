@@ -20,8 +20,8 @@
 * MBTI https://www.kaggle.com/datasets/zeyadkhalid/mbti-personality-types-500-dataset
 * Employee https://www.kaggle.com/datasets/tejashvi14/employee-future-prediction
 
-## Video Presentación
-https://drive.google.com/file/d/1gvLA33aP4U0kzeeIOpRLlaFr18mwXo7W/view?usp=share_link
+## Video Presentación:
+* https://drive.google.com/file/d/1gvLA33aP4U0kzeeIOpRLlaFr18mwXo7W/view?usp=share_link
 
 ## Reportes:
 * MBTI https://drive.google.com/file/d/1rsTAg3ZC2-ggwnlNGQqK6enVQ9DvdPpK/view?usp=share_link
